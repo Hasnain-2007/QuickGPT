@@ -8,7 +8,7 @@ import Loading from './pages/Loading'
 import { assets } from './assets/assets'
 import './assets/prism.css'
 import { useAppContext } from './context/AppContext'
-import Login from './pages/login'
+import Login from './pages/Login'
 import {Toaster} from 'react-hot-toast'
 
 
